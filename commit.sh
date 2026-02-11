@@ -11,7 +11,7 @@ datetime="$(date +"%Y-%m-%d %H:%M:%S")"
 
 cd "$root_path"
 
-php "${script_path}/generate.php"
+#php "${script_path}/generate.php"
 
 git add --all
 
